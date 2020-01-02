@@ -5,7 +5,7 @@
 
 ## Technologie
 Inhoud analyse met Nederlandse spraakherkenning van Oudejaarsconference 2019 - Claudia de Breij
-De video is beschermd met DRM. Er is een audio extract gemaakt van [deze uitzending]( https://www.npostart.nl/oudejaarsconference-2019/31-12-2019/BV_101395841). Voor het omzetten van spraak naar tekst is er gebruik van open-source software.
+De video is beschermd met DRM. Er is een [audio extract](https://drive.google.com/file/d/1Oa0Cfz6WeaSJHZBulwmos1RQmiUUoAxJ/view?usp=sharing) gemaakt van [deze uitzending]( https://www.npostart.nl/oudejaarsconference-2019/31-12-2019/BV_101395841). Voor het omzetten van spraak naar tekst is er gebruik van open-source software.
 
 ## Doel
 
