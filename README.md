@@ -9,20 +9,22 @@ De video is beschermd met DRM. Er is een [audio extract](https://drive.google.co
 
 ## Doel
 
-1. Spraak omzetten naar leesbare tekst.
+### Spraak omzetten naar leesbare tekst.
   * [JSON](https://raw.githubusercontent.com/cookiemonster/oudejaarsconference/master/oudejaarsconference_2019_Claudia_de_Breij.json)
   * [TXT](https://raw.githubusercontent.com/cookiemonster/oudejaarsconference/master/oudejaarsconference_2019_Claudia_de_Breij.txt)
   * [SRT ondertiteling](https://raw.githubusercontent.com/cookiemonster/oudejaarsconference/master/oudejaarsconference_2019_Claudia_de_Breij.json.srt)
 
-2. Tekstanalyse.
+### Tekstanalyse.
   * Onderwerpen
   * Keywords
   * Patronen
   * Sentiment
  
-3. Overzicht genereren.
+### Overzicht genereren.
   * Grafieken
 
-4. Gebruikte bronnen
+### Gebruikte bronnen
+  * [Training a Speech-to-Text Model for Dutch on the Corpus Gesproken Nederlands](http://ceur-ws.org/Vol-2491/paper60.pdf)
   * [Radboud University - Centre for Language and Speech Technology](https://www.ru.nl/clst/)
+  
   
